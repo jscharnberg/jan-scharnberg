@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning more about C#
 - 📫 How to reach me jns0911@web.de
 
 <!---
