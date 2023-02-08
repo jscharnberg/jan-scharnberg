@@ -9,6 +9,31 @@ const Me = [{
   ]
 }]
 
+const UserProfile = [{
+  Name: "Noel Mayr",
+  Age: "idk",
+  Website: "https://github.com/Nollknolle",
+  projects: [
+	{
+	 name: "Testiply",
+	 website: "https://testiply.vercel.app"
+	},
+	{
+	 name: "Testiply API",
+	 description: "API for Testiply"
+	},
+	{
+	 name: "DiscordJS Template",
+	 description: "A DiscordJS bot template",
+	 website: "https://www.npmjs.com/package/@nlmyr/discordjs-template"
+	},
+	{
+	 name: "ChipX9",
+	 description: "A nice discord bot."
+	}
+  ]
+}]
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Janscharnberg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jan-niklas-scharnberg-6a369421b) 
