@@ -1,38 +1,5 @@
-const Me = [{
-  "Name": "Jan Niklas Scharnberg",
-  "Age": 20,
-  "Location": "Hamburg, Germany  :flag_de: ",
-  "Hobbies": [
-    "Coding :computer: ",
-    "Gym :man_lifting_weights: ",
-    "Firefighter :fire_engine: "
-  ]
-}]
-
-const UserProfile = [{
-  Name: "Noel Mayr",
-  Age: "idk",
-  Website: "https://github.com/Nollknolle",
-  projects: [
-	{
-	 name: "Testiply",
-	 website: "https://testiply.vercel.app"
-	},
-	{
-	 name: "Testiply API",
-	 description: "API for Testiply"
-	},
-	{
-	 name: "DiscordJS Template",
-	 description: "A DiscordJS bot template",
-	 website: "https://www.npmjs.com/package/@nlmyr/discordjs-template"
-	},
-	{
-	 name: "ChipX9",
-	 description: "A nice discord bot."
-	}
-  ]
-}]
+# 💫 About Me:
+I'm a software engineer from Hamburg, Germany. Some technologies I enjoy working with include ReactJS, MongoDB and Docker. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out. Feel free to reach out in case you want to just get in touch also.
 
 
 ## 🌐 Socials:
