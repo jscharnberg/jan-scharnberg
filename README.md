@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer from Hamburg, Germany. Some technologies I enjoy working with include ReactJS, MongoDB and Docker. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out. Feel free to reach out in case you want to just get in touch also.
+I'm a software engineer from Hamburg, Germany. Some technologies I enjoy working with include ReactJS, MongoDB and Docker. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out. Feel free to reach out in case you want to get in touch.
 
 
 ## 🌐 Socials:
